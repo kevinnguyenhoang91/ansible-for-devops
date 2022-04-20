@@ -5,4 +5,4 @@ roles:
   - name: geerlingguy.kubernetes
 
 collections:
-  - name: community.kubernetes
+  - name: kubernetes.core
